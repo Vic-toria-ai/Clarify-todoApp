@@ -1,0 +1,28 @@
+#header-title {
+  font-family: "Dancing Script", cursive;
+  font-size: 2.5rem;
+}
+.card{
+    max-width: 600px;
+    margin: auto;
+}
+
+/* .listItems{
+  background-color: #ffffff;
+  border-radius: 5px;
+} */
+
+.deleteIcon{
+  
+}
+.todoContainer2 {
+  background-color: #0d6efd;
+  padding: 10px;
+  color: whitesmoke;
+}
+
+.todoList2{
+list-style: none;
+margin: 0;
+padding: 0;
+}
