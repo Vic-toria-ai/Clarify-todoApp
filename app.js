@@ -1,7 +1,7 @@
 const initialTodos = [
   {
     id: "1",
-    name: "Hello baby girl",
+    name: "Hello world",
     createdAt: new Date().toLocaleString("en-US", {
       month: "short",
       day: "numeric",
